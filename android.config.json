@@ -1,0 +1,6 @@
+{
+    "AppName": "WeexApp",
+    "AppId": "com.syswin.weex",
+    "SplashText": "HelloWeex",
+    "WeexBundle": "http://192.168.15.194:8082/dist/weex/App.js"
+}
